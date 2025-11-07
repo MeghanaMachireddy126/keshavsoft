@@ -36,3 +36,10 @@ Interns are expected to:
 ---
 
 ## 🗂️ Project Structure
+
+bootstrap-ui-task/
+├── index.html # Home Page – Navbar, Hero, Features, Footer
+├── about.html # About / Services Page
+├── contact.html # Contact Page with working form
+|-- style.css
+└── README.md
