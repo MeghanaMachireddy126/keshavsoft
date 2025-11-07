@@ -1,0 +1,25 @@
+body {
+  font-family: 'Poppins', sans-serif;
+  scroll-behavior: smooth;
+}
+
+.hero {
+  background: linear-gradient(135deg, #007bff, #6610f2);
+  height: 90vh;
+}
+
+.hero h1 {
+  letter-spacing: 1px;
+}
+
+.card i {
+  transition: transform 0.3s ease;
+}
+
+.card:hover i {
+  transform: scale(1.2);
+}
+
+footer {
+  letter-spacing: 0.5px;
+}
